@@ -43,7 +43,7 @@
             "php artisan optimize"
         ],
         "compile": [
-            "php artisan migration"
+            "php artisan migrate"
         ]
     },
     "config": {
